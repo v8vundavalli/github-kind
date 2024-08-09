@@ -1,5 +1,7 @@
 # github-kind
 
+This is sample data page.
+
 Deploy app using the following command:
     kubectl create deploy hello --image brainupgrade/hello:1.0
 
